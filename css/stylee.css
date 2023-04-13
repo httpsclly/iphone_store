@@ -70,6 +70,12 @@ font-size: 20px;
     text-align: center;
 }
 
+.titulo1 p {
+        font-size: 21px;
+        transition-property: font-size;
+        transition-duration: 3s;
+        transition-delay: 3s;     
+}
 
 /*modelos*/
 
