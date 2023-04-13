@@ -65,8 +65,10 @@ font-size: 20px;
 }
 
 
-
-
+/*SOBRE*/
+.palavras p {
+    text-align: center;
+}
 
 
 /*modelos*/
